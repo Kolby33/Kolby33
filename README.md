@@ -8,11 +8,12 @@
 <!-- TODO: 1–2 sentences on your background and what you're after.
      e.g. "CS student focused on machine learning, looking for a 2026 SWE/ML internship."
      Recruiters read this line first — make it specific. -->
-I build things end-to-end — from data prep and model training to a working interface. Most of my recent work is in **deep learning with PyTorch** and **applied AI**.
+Hi, I’m Kolby. I’m a second-year Computer Science and Statistics student at the University of Toronto, mostly working in PyTorch.
+
+Right now I’m building a real-time emotion predictor on the MELD dataset. It takes text and audio from conversations and predicts the emotion in each utterance as it comes in, so the hard part is keeping it fast enough to run live on my laptop. Before this I did the usual PyTorch progression (ANNs, CNNs, transfer learning), and the projects below are from that stretch.
 
 #### Currently
-- Building deep-learning projects in PyTorch — ANNs, CNNs, and transfer learning
-<!-- TODO: add anything else — a course, a job search, a project in progress -->
+Building a real-time emotion predictor on MELD, using text and audio<!-- TODO: add anything else — a course, a job search, a project in progress -->
 
 #### Featured projects
 
